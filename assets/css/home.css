@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Bebas+Neue&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+    --primary-color: #013001;;
+    --secondary-color: #ffc135;
+    --tertiary-color: #024d02;;
+    --text-dark: #212529;
+    --white: #ffffff;
+    --max-width: 1200px;
+    --header-font-1: "Alfa Slab One", serif;
+    --header-font-2: "Bebas Neue", sans-serif;
+}
+
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: "Montserrat", sans-serif;
+    scroll-behavior: smooth;
+    color: var(--text-dark);
+}
+
+/* Section Container */
+.section__container {
+    max-width: var(--max-width);
+    margin: auto;
+    padding: 5rem 1rem;
+}
+
+/* Header */
+.header {
+    background-image: url('../img/IN.png');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__container {
+    text-align: center;
+}
+
+.header__content h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-family: var(--header-font-2);
+    color: var(--secondary-color);
+    text-shadow: 2px 2px var(--text-dark);
+}
+
+.header__content h1 {
+    font-size: 4rem;
+    font-family: var(--header-font-1);
+    color: #024d02;
+    text-shadow: 2px 2px #b88a06;
+}
+
+.header__content h1 span {
+    font-size: 3rem;
+    color: var(--secondary-color);
+}
+
+/* Glass Card */
+.glass-card {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 90px 150px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: var(--white);
+    text-align: center;
+}
+
+.glass-card .buttons {
+    margin-top: 20px;
+}
+
+.glass-card .btn {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: var(--white);
+    background-color: var(--tertiary-color);
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+    margin: 0 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.glass-card .btn:hover {
+    background-color: var(--primary-color);
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .header {
+        padding: 2rem 1rem;
+        text-align: center;
+    }
+
+    .header__content h1 {
+        font-size: 3rem;
+    }
+
+    .header__content h2 {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 540px) {
+    .header__content h1 {
+        font-size: 2rem;
+    }
+
+    .header__content h2 {
+        font-size: 1.2rem;
+    }
+
+    .btn {
+        padding: 0.8rem 1rem;
+        font-size: 0.9rem;
+    }
+}

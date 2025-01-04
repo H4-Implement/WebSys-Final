@@ -1,0 +1,234 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&display=swap');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Merriweather", serif;
+    background-color: #f4f7fa;
+    color: #024d02;
+    background-image: url('../img/usersBG.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+    padding: 3% 10%;
+    background: #f4f7fa;
+    min-height: 100vh;
+    background-color: transparent;
+}
+
+.content-wrapper {
+    max-width: 100%;
+    width: 100%;
+    margin: auto;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 32px;
+    color: #f4f7fa;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+    background-color: #024d02;
+    padding: 10px 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.search-bar input {
+    flex: 1;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    background-color: #f4f4f4;
+}
+
+.search-bar input:focus {
+    outline: 2px solid #e8b00c;
+    background-color: #fff;
+}
+
+.search-bar button {
+    background-color: #012601;
+    color: #fff;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.search-bar button:hover {
+    background-color: #e8b00c;
+    color: #024d02;
+}
+
+.btn-success {
+    background-color: #024d02;
+    color: #fff;
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    border-radius: 8px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-success:hover {
+    background-color: #e8b00c;
+    color: #024d02;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 18px 20px;
+    text-align: left;
+    font-size: 16px;
+}
+
+th {
+    background-color: #024d02;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+tr:hover {
+    background-color: #e8b00c;
+    color: #024d02;
+    cursor: pointer;
+}
+
+.btn-warning {
+    background-color: #e8b00c;
+    color: #024d02;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-size: 14px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: background-color 0.3s ease;
+    text-decoration: none;
+}
+
+.btn-warning:hover {
+    background-color: #024d02;
+    color: #e8b00c;
+    text-decoration: none;
+}
+
+.pagination-wrapper {
+    margin-top: 20px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.pagination-wrapper a {
+    color: #024d02;
+    padding: 10px 15px;
+    margin: 0 5px;
+    border-radius: 8px;
+    text-decoration: none;
+    background-color: #ffffff;
+    border: 1px solid #024d02;
+    transition: all 0.3s;
+}
+
+.pagination-wrapper a:hover {
+    background-color: #e8b00c;
+    color: #024d02;
+}
+
+.card-list {
+    display: none;
+}
+
+@media screen and (max-width: 768px) {
+    table {
+        display: none;
+    }
+
+    .card-list {
+        display: flex;
+        flex-direction: column;
+        gap: 15px;
+    }
+
+    .card {
+        background-color: #ffffff;
+        border-radius: 12px;
+        padding: 20px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .card h4 {
+        margin: 0 0 10px 0;
+        font-size: 18px;
+        color: #024d02;
+    }
+
+    .card p {
+        margin: 5px 0;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .card .actions {
+        margin-top: 10px;
+        text-align: right;
+    }
+
+    .card .btn-warning {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}
+
+.button-pagination-wrapper {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    margin-top: 10px;
+}
+
+.button-pagination-wrapper .btn-success {
+    margin-right: 20px; 
+}
+
+.pagination-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}

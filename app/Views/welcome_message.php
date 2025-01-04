@@ -327,5 +327,18 @@
 
 <!-- -->
 
+<div class="container">
+    <div class="row">
+        <h2>Welcome to my blog</h2>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+</div>
+
 </body>
 </html>

@@ -1,0 +1,809 @@
+CRITICAL - 2024-10-14 02:15:08 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: users]
+in APPPATH\Models\Products_model.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\tw32.2\\app\\Models\\Products_model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Products_model')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Products_model')
+ 4 SYSTEMPATH\Config\Factories.php(290): class_exists('App\\Models\\Products_model')
+ 5 SYSTEMPATH\Config\Factories.php(216): CodeIgniter\Config\Factories::locateClass([...], 'Products_model')
+ 6 SYSTEMPATH\Config\Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Products_model', [...])
+ 7 SYSTEMPATH\Common.php(802): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Users.php(7): model('Products_model')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 02:15:31 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: users]
+in APPPATH\Models\Products_model.php on line 31.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\tw32.2\\app\\Models\\Products_model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Products_model')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Products_model')
+ 4 SYSTEMPATH\Config\Factories.php(290): class_exists('App\\Models\\Products_model')
+ 5 SYSTEMPATH\Config\Factories.php(216): CodeIgniter\Config\Factories::locateClass([...], 'Products_model')
+ 6 SYSTEMPATH\Config\Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Products_model', [...])
+ 7 SYSTEMPATH\Common.php(802): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Users.php(7): model('Products_model')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 02:17:35 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: users]
+in APPPATH\Models\Products_model.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\tw32.2\\app\\Models\\Products_model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Products_model')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Products_model')
+ 4 SYSTEMPATH\Config\Factories.php(290): class_exists('App\\Models\\Products_model')
+ 5 SYSTEMPATH\Config\Factories.php(216): CodeIgniter\Config\Factories::locateClass([...], 'Products_model')
+ 6 SYSTEMPATH\Config\Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Products_model', [...])
+ 7 SYSTEMPATH\Common.php(802): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Users.php(7): model('Products_model')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 02:19:38 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: users]
+in APPPATH\Models\Products_model.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\tw32.2\\app\\Models\\Products_model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Products_model')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Products_model')
+ 4 SYSTEMPATH\Config\Factories.php(290): class_exists('App\\Models\\Products_model')
+ 5 SYSTEMPATH\Config\Factories.php(216): CodeIgniter\Config\Factories::locateClass([...], 'Products_model')
+ 6 SYSTEMPATH\Config\Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Products_model', [...])
+ 7 SYSTEMPATH\Common.php(802): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Users.php(7): model('Products_model')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 02:19:39 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: users]
+in APPPATH\Models\Products_model.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\tw32.2\\app\\Models\\Products_model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Products_model')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Products_model')
+ 4 SYSTEMPATH\Config\Factories.php(290): class_exists('App\\Models\\Products_model')
+ 5 SYSTEMPATH\Config\Factories.php(216): CodeIgniter\Config\Factories::locateClass([...], 'Products_model')
+ 6 SYSTEMPATH\Config\Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Products_model', [...])
+ 7 SYSTEMPATH\Common.php(802): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Users.php(7): model('Products_model')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 02:19:40 --> ParseError: syntax error, unexpected token ";", expecting "function" or "const"
+[Method: GET, Route: users]
+in APPPATH\Models\Products_model.php on line 30.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\tw32.2\\app\\Models\\Products_model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Products_model')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Products_model')
+ 4 SYSTEMPATH\Config\Factories.php(290): class_exists('App\\Models\\Products_model')
+ 5 SYSTEMPATH\Config\Factories.php(216): CodeIgniter\Config\Factories::locateClass([...], 'Products_model')
+ 6 SYSTEMPATH\Config\Factories.php(159): CodeIgniter\Config\Factories::getDefinedInstance([...], 'Products_model', [...])
+ 7 SYSTEMPATH\Common.php(802): CodeIgniter\Config\Factories::__callStatic('models', [...])
+ 8 APPPATH\Controllers\Users.php(7): model('Products_model')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 02:20:23 --> ErrorException: Undefined variable $usersmodel
+[Method: GET, Route: users]
+in APPPATH\Controllers\Users.php on line 10.
+ 1 APPPATH\Controllers\Users.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $usersmodel', 'C:\\xampp\\htdocs\\tw32.2\\app\\Controllers\\Users.php', 10)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 02:21:02 --> Error: Cannot use object of type stdClass as array
+[Method: GET, Route: users]
+in APPPATH\Views\users_view.php on line 23.
+ 1 SYSTEMPATH\View\View.php(234): include()
+ 2 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('users_view', [], true)
+ 4 APPPATH\Controllers\Users.php(18): view('users_view', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:00:23 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "users_view.php"
+[Method: GET, Route: users]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('users_view', [], true)
+ 3 APPPATH\Controllers\Users.php(18): view('users_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->index()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-14 05:47:54 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\tw32.2\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\tw32.2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\tw32.2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\tw32.2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\tw32.2\app\Controllers\Products.php(43): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(933): App\Controllers\Products->add()
+#9 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#10 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tw32.2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tw32.2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\tw32.2\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-10-14 05:47:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: products/add]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:47:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:47:54\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:47:54\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:47:54 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:47:54\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:47:54\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:47:54\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-14 05:48:29 --> mysqli_sql_exception: Unknown column 'dateupdated' in 'field list' in C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\tw32.2\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\tw32.2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\tw32.2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\tw32.2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\tw32.2\app\Controllers\Products.php(43): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(933): App\Controllers\Products->add()
+#9 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#10 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tw32.2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tw32.2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\tw32.2\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-10-14 05:48:29 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dateupdated' in 'field list'
+[Method: POST, Route: products/add]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `dateupdated`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :dateupdated:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:48:29 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'dateupdated' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `dateupdated`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:29\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `dateupdated`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:29\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `dateupdated`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :dateupdated:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:48:29 --> [Caused by] mysqli_sql_exception: Unknown column 'dateupdated' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `dateupdated`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:29\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `dateupdated`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:29\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `dateupdated`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:29\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `dateupdated`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :dateupdated:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-14 05:48:40 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\tw32.2\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\tw32.2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\tw32.2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\tw32.2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\tw32.2\app\Controllers\Products.php(43): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(933): App\Controllers\Products->add()
+#9 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#10 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tw32.2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tw32.2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\tw32.2\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-10-14 05:48:40 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: products/add]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:48:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:40\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:40\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:48:40 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:40\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:40\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:48:40\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-14 05:54:54 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\tw32.2\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\tw32.2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\tw32.2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\tw32.2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\tw32.2\app\Controllers\Products.php(43): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(933): App\Controllers\Products->add()
+#9 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#10 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tw32.2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tw32.2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\tw32.2\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-10-14 05:54:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: products/add]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:54:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:54:54\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:54:54\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:54:54 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:54:54\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:54:54\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:54:54\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-14 05:58:19 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\tw32.2\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\tw32.2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\tw32.2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\tw32.2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\tw32.2\app\Controllers\Products.php(43): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(933): App\Controllers\Products->add()
+#9 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#10 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tw32.2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tw32.2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\tw32.2\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-10-14 05:58:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: products/add]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:58:19 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:58:19\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:58:19\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 05:58:19 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:58:19\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:58:19\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'1234567890125\', \'Candy\', \'Masarap to gagi\', \'kg\', \'1\', \'5\', \'3\', \'2024-10-10\', \'Mentos\', \'2024-10-14\', \'2024-10-14 05:58:19\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 06:01:40 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration_view.php"
+[Method: GET, Route: products/add]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('registration_view', [], true)
+ 3 APPPATH\Controllers\Products.php(54): view('registration_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 06:02:58 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: products/edit/5]
+in APPPATH\Views\edit_view.php on line 3.
+ 1 APPPATH\Views\edit_view.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\tw32.2\\app\\Views\\edit_view.php', 3)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tw32.2\\app\\Views\\edit_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('edit_view', [], true)
+ 5 APPPATH\Controllers\Products.php(99): view('edit_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->edit('5')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-10-14 06:20:21 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\tw32.2\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\tw32.2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\tw32.2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\tw32.2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\tw32.2\app\Controllers\Products.php(43): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(933): App\Controllers\Products->add()
+#9 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#10 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tw32.2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tw32.2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\tw32.2\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-10-14 06:20:21 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: products/add]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 06:20:21 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-11-07\', \'2024-10-14 06:20:21\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-11-07\', \'2024-10-14 06:20:21\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 06:20:21 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-11-07\', \'2024-10-14 06:20:21\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-11-07\', \'2024-10-14 06:20:21\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-11-07\', \'2024-10-14 06:20:21\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Products.php(43): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 06:22:19 --> ErrorException: Declaration of App\Models\Products_model::update($id = null, ?array $data = null) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: POST, Route: products/add]
+in APPPATH\Models\Products_model.php on line 31.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-10-14 06:22:39 --> ErrorException: Declaration of App\Models\Products_model::update($id = null, ?array $data = null) must be compatible with CodeIgniter\Model::update($id = null, $row = null): bool
+[Method: POST, Route: products/add]
+in APPPATH\Models\Products_model.php on line 32.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+ERROR - 2024-10-14 06:28:47 --> mysqli_sql_exception: Unknown column 'updated_at' in 'field list' in C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php:312
+Stack trace:
+#0 C:\xampp\htdocs\tw32.2\system\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\tw32.2\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\tw32.2\system\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\tw32.2\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\tw32.2\system\BaseModel.php(840): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\tw32.2\system\Model.php(802): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\tw32.2\app\Controllers\Products.php(42): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(933): App\Controllers\Products->add()
+#9 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+#10 C:\xampp\htdocs\tw32.2\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tw32.2\system\Boot.php(325): CodeIgniter\CodeIgniter->run()
+#12 C:\xampp\htdocs\tw32.2\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\xampp\htdocs\tw32.2\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+CRITICAL - 2024-10-14 06:28:47 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+[Method: POST, Route: products/add]
+in SYSTEMPATH\Database\BaseConnection.php on line 688.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Controllers\Products.php(42): CodeIgniter\Model->insert([...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 06:28:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 317.
+ 1 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-10-14 06:28:47\', \'2024-10-14 06:28:47\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-10-14 06:28:47\', \'2024-10-14 06:28:47\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Controllers\Products.php(42): CodeIgniter\Model->insert([...])
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+ 9 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+10 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 06:28:47 --> [Caused by] mysqli_sql_exception: Unknown column 'updated_at' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 312.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(312): mysqli->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-10-14 06:28:47\', \'2024-10-14 06:28:47\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(734): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-10-14 06:28:47\', \'2024-10-14 06:28:47\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (\'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'123\', \'2024-10-14\', \'123\', \'2024-10-14 06:28:47\', \'2024-10-14 06:28:47\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2340): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_products` (`barcode`, `productname`, `description`, `unit`, `purchaseprice`, `sellingprice`, `wholesaleprice`, `deliverydate`, `supplier`, `dateencoded`, `updated_at`) VALUES (:barcode:, :productname:, :description:, :unit:, :purchaseprice:, :sellingprice:, :wholesaleprice:, :deliverydate:, :supplier:, :dateencoded:, :updated_at:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(840): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(802): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Products.php(42): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->add()
+10 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+11 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 06:59:59 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: products/edit/2]
+in APPPATH\Views\edit_view.php on line 3.
+ 1 APPPATH\Views\edit_view.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\tw32.2\\app\\Views\\edit_view.php', 3)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tw32.2\\app\\Views\\edit_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('edit_view', [], true)
+ 5 APPPATH\Controllers\Products.php(98): view('edit_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Products->edit('2')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Products))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 08:13:54 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "="
+[Method: GET, Route: =]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('=')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('=')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 08:15:50 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "="
+[Method: GET, Route: =]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('=')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('=')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 08:15:54 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "="
+[Method: GET, Route: =]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('=')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('=')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 08:17:50 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "="
+[Method: GET, Route: =]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('=')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('=')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 08:18:02 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "="
+[Method: GET, Route: =]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('=')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('=')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 08:18:57 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "="
+[Method: GET, Route: =]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('=')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('=')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 08:43:39 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "'products"
+[Method: GET, Route: %27products/about%27]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('\'products/about\'')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('\'products/about\'')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 08:43:47 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "'products"
+[Method: GET, Route: %27products/about%27]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars('\'products/about\'')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('\'products/about\'')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 09:35:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration_view.php"
+[Method: GET, Route: users/add]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('registration_view', [], true)
+ 3 APPPATH\Controllers\Users.php(46): view('registration_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->add()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 09:41:14 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user_view.php"
+[Method: GET, Route: users/view/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user_view', [], true)
+ 3 APPPATH\Controllers\Users.php(62): view('user_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->view('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 09:46:27 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "registration_view.php"
+[Method: GET, Route: users/add]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('registration_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('registration_view', [], true)
+ 3 APPPATH\Controllers\Users.php(46): view('registration_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->add()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 09:53:48 --> ErrorException: Undefined array key "barcode"
+[Method: GET, Route: users/edit/1]
+in APPPATH\Views\edit_view.php on line 6.
+ 1 APPPATH\Views\edit_view.php(6): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "barcode"', 'C:\\xampp\\htdocs\\tw32.2\\app\\Views\\edit_view.php', 6)
+ 2 SYSTEMPATH\View\View.php(234): include('C:\\xampp\\htdocs\\tw32.2\\app\\Views\\edit_view.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('edit_view', [], true)
+ 5 APPPATH\Controllers\Users.php(91): view('edit_view', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->edit('1')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 09:54:46 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "userEdit_view.php"
+[Method: GET, Route: users/edit/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('userEdit_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('userEdit_view', [], true)
+ 3 APPPATH\Controllers\Users.php(91): view('userEdit_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->edit('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 09:56:41 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user_view.php"
+[Method: GET, Route: users/view/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user_view', [], true)
+ 3 APPPATH\Controllers\Users.php(62): view('user_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->view('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 09:57:43 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user_view.php"
+[Method: GET, Route: users/view/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('user_view', [], true)
+ 3 APPPATH\Controllers\Users.php(62): view('user_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->view('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 09:58:04 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "userView_view.php"
+[Method: GET, Route: users/view/1]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('userView_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('userView_view', [], true)
+ 3 APPPATH\Controllers\Users.php(62): view('userView_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->view('1')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-14 13:58:09 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "register_view.php"
+[Method: GET, Route: users/register]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 41.
+ 1 SYSTEMPATH\View\View.php(222): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('register_view.php')
+ 2 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('register_view', [], true)
+ 3 APPPATH\Controllers\Users.php(74): view('register_view')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Users->register()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
